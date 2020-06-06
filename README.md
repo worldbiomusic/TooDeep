@@ -18,7 +18,7 @@ worldbiomusic
 -need 2.5 hearts to use
 
 # Warning
--creative에서도 health가 존재하기 때문에 계속 사용 불가는ㅇ
+-creative에서도 health가 존재하기 때문에 계속 사용 불가능
 
 # Commands
 <>: 필수, 
@@ -26,7 +26,7 @@ worldbiomusic
 (OP): OP필요
 
 ```
-Empty
+mpty
 ```
 
 # YML
